@@ -7,13 +7,13 @@ Here I have used different Machine Learning algorithms, which are implemented in
 
 Machine Learning algorithms that are used:
 
-Logistic Regression (Scikit-learn)
-Naive Bayes (Scikit-learn)
-Support Vector Machine (Linear) (Scikit-learn)
-K-Nearest Neighbours (Scikit-learn)
-Decision Tree (Scikit-learn)
-Random Forest (Scikit-learn)
-Artificial Neural Network with 1 Hidden layer (Keras)
-Accuracy achieved: 90.16% (Random Forest)
+1. Logistic Regression (Scikit-learn)
+2. Naive Bayes (Scikit-learn)
+3. Support Vector Machine (Linear) (Scikit-learn)
+4. K-Nearest Neighbours (Scikit-learn)
+5. Decision Tree (Scikit-learn)
+6. Random Forest (Scikit-learn)
+7. Artificial Neural Network with 1 Hidden layer (Keras)
+8. Accuracy achieved: 90.16% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
