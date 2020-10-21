@@ -14,6 +14,7 @@ Machine Learning algorithms that are used:
 5. Decision Tree (Scikit-learn)
 6. Random Forest (Scikit-learn)
 7. Artificial Neural Network with 1 Hidden layer (Keras)
-8. Accuracy achieved: 90.16% (Random Forest)
+
+Accuracy achieved: 90.16% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
